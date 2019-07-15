@@ -1,1 +1,1 @@
-github "apollographql/apollo-ios" "master"
+github "manicmaniac/apollo-ios" "separate-carthage-optional-dependencies"
