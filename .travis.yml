@@ -1,7 +1,7 @@
 os: osx
 language: swift
 osx_image: xcode10.2
-xcode_project: ApolloDeveloperKitExample.xcodeproj
-xcode_scheme: ApolloDeveloperKitExample
+xcode_project: ApolloDependencyExample.xcodeproj
+xcode_scheme: ApolloDependencyExample
 
 install: carthage bootstrap --platform iOS --no-use-binaries
